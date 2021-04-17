@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aws-app:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2021-04-17T12:12:24.239862675+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 3daf4f5fc4de13b3751267748532f985c5ad8d008ca9fb75a1eb845b2560a602
+    name: aws-app
+    type: application
+    urls:
+    - https://shtut2018.github.io/aws_charts/aws-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-17T12:12:24.239484759+03:00"
